@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+<!-- Metadata related to Apex Code -->
+    <!-- Apex Classes -->
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <!-- Apex Triggers -->
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <!-- Visualforce Pages -->
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <!-- Visualforce Components -->
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+
+<!-- Metadata related to Customization -->
+    <!-- Custom Objects -->
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <!-- Custom Fields -->
+    <types>
+        <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <!-- Custom Labels -->
+    <types>
+        <members>*</members>
+        <name>CustomLabels</name>
+    </types>
+    <!-- Custom Tabs -->
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+
+<!-- UI and Layouts -->
+    <!-- Page Layouts -->
+    <types>
+        <members>*</members>
+        <name>Layout</name>
+    </types>
+    <!-- FlexiPages (Lightning Pages) -->
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+    <!-- Record Types -->
+    <types>
+        <members>*</members>
+        <name>RecordType</name>
+    </types>
+    <!-- Lightning Web Components (LWC) -->
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+<!-- Flows and Automations -->
+    <!-- Flows -->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <!-- Workflow Rules -->
+    <types>
+        <members>*</members>
+        <name>Workflow</name>
+    </types>
+    <!-- Process Builder (Flow Definitions) -->
+    <types>
+        <members>*</members>
+        <name>FlowDefinition</name>
+    </types>
+    <!-- Validation Rules -->
+    <types>
+        <members>*</members>
+        <name>ValidationRule</name>
+    </types>
+    <!-- Approval Processes -->
+    <types>
+        <members>*</members>
+        <name>ApprovalProcess</name>
+    </types>
+
+<!-- Security -->
+    <!-- Profiles -->
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <!-- Permission Sets -->
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <!-- Sharing Rules -->
+    <types>
+        <members>*</members>
+        <name>SharingRules</name>
+    </types>
+
+<!-- Reports and Dashboards -->
+    <!-- Reports -->
+    <types>
+        <members>*</members>
+        <name>Report</name>
+    </types>
+    <!-- Dashboards -->
+    <types>
+        <members>*</members>
+        <name>Dashboard</name>
+    </types>
+
+<!-- Email and Notifications -->
+    <!-- Email Templates -->
+    <types>
+        <members>*</members>
+        <name>EmailTemplate</name>
+    </types>
+    <!-- Email Alerts -->
+    <types>
+        <members>*</members>
+        <name>WorkflowAlert</name>
+    </types>
+
+<!-- Static Resources -->
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+
+<version>62.0</version>
+</Package>

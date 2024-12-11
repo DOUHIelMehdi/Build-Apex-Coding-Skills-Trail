@@ -1,0 +1,11 @@
+sf project generate --name Myprojct
+
+cd Myproject
+
+sf project generate manifest --from-org OrgAlias        //generate manifest
+
+sf config set target-org Alias      set the orgAlias as default 
+
+sf org list 
+
+sf project retrieve start --manifest package.xml --target-org orgAlias
