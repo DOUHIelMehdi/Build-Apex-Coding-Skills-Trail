@@ -47,11 +47,29 @@ public with sharing class OOpAdminLessonClassNotes {
         *   update = eedit a record
         *   delete = delete a record 
         */
-
-
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
         /*
         -MODULE 3 : define Sets and Maps    
+        check : Tea class , 
+        Reminder : 
+        - a List is an Ordered collection of items with the same data type.
+            * each item has a position called index
+            * when you try to access element inside a list you loop throught the lement by the order of the index
+
+        - a set is an anordered set of unique items of the same type
+            * like a list , set is a group of elements that have the same data type BUT it doesnt't maintains no particular order for its elements 
+            * set can' have any duplicate because the elements are unordered 
+            * if you try to add a new element wiht the exact sames values as an old one in the set , you will not get an error but the new element will not be added to the set 
+            * when you loop throuhgt a set ,you may access elements in a random order because the elements are unorderd
+            * syntax
+                Set<String> teaTypes = new Set<String>();
+
+        PS !!! do i choise List or Set ?
+            -do i want to allow duplicate ? 
+            -do i need order ? 
+
+        
+        
         */
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------        
         /*

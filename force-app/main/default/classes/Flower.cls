@@ -7,6 +7,9 @@ public with sharing class Flower {
     public Integer numberOfPetals;
     public Boolean isGreen; //default value = false
 
+    //becaus ethe varaibles are public you can affect values for object like this :
+        // objectName : tulip --> tulip.color = 'green';
+        /// you need to add getters and setter for private variables
     public static Integer wilt(Integer numberOfPetals){
         if(numberOfPetals >=1){
             numberOfPetals--;
